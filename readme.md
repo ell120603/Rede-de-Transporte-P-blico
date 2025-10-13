@@ -1,17 +1,4 @@
-Com certeza\! Com base na descrição do projeto e no código Python que você forneceu (`main.py` e `MetroGraph` em `src/metro_graph.py`), preparei um arquivo `README.md` detalhado.
 
-Este `README.md` inclui:
-
-1.  **Título e Descrição:** Informações claras sobre o projeto.
-2.  **Tecnologias:** Menciona Python e as bibliotecas utilizadas.
-3.  **Estrutura do Projeto:** Explica a organização dos arquivos.
-4.  **Funcionalidades:** Lista os requisitos e extras implementados.
-5.  **Como Executar:** Instruções para setup e execução.
-6.  **Uso:** Detalha como interagir com o menu principal.
-
------
-
-## `README.md`
 
 ```markdown
 # 🚉 4. Rede de Transporte Público (Ônibus/Metrô) - Sistema de Metrô SP
