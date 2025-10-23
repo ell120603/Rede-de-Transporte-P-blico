@@ -152,7 +152,7 @@ class MetroGraph:
         pos = nx.kamada_kawai_layout(G)
 
         plt.figure(figsize=(10, 8))
-        plt.title("🗺️  Mapa do Metrô de SP", fontsize=14, fontweight='bold', pad=20)
+        plt.title(" Mapa do Metrô de SP", fontsize=14, fontweight='bold', pad=20)
 
         
         for linha, cor in cores_linhas.items():
